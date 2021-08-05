@@ -172,7 +172,6 @@ termcolor==1.1.0
 terminado @ file:///D:/bld/terminado_1617048799047/work
 testpath==0.4.4
 threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
-thundersvm @ file:///C:/Users/swapnilch/Downloads/thundersvm-cu10-0.2.0-py3-none-win_amd64.whl
 torch==1.8.1
 torch-cluster==1.5.9
 torch-geometric==1.7.0
