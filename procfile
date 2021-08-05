@@ -1,0 +1,1 @@
+web: gunicorn app:AR_agonist_prediction_app
