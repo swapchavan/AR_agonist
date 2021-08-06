@@ -1,1 +1,1 @@
-web: gunicorn app:AR_agonist_pred_app
+web: gunicorn app:app
