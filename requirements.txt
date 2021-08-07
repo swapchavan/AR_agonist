@@ -10,4 +10,3 @@ torch==1.8.1+cpu
 torchvision==0.9.1+cpu
 scipy==1.6.2
 scikit-learn==0.24.1
-
